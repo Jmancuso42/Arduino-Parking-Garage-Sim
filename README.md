@@ -1,5 +1,5 @@
-# Embedded-C-Reference-Snips
-Some Embedded C code that will be useful for reference when I get back to messing with microcontrollers
+#Arduino-Parking-Garage
+The middle of my Embedded C Career led to creating a parking garage on a breadboard, but I never quite got to simulating parking -tickets-...
 
 
 
